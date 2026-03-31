@@ -1,5 +1,5 @@
 ## digital-literacy-project
-Student Details
+#Student Details
 
 Name: Devesh Tyagi
 
@@ -11,13 +11,13 @@ Course Code: CSE0001
 
 University: VIT Bhopal University
 
-Project Overview
+#Project Overview
 
 This project was completed as part of the Digital Literacy course. The objective of this project is to develop awareness about effective use of digital tools, professional online presence, communication etiquette, and cyber safety.
 
 The project is divided into five tasks, each focusing on a different aspect of digital literacy.
 
-Repository Structure
+#Repository Structure
 
 Task 1 : Digital Literacy Infographic
 
@@ -76,13 +76,13 @@ Developed a prevention checklist
 
 Included reporting methods and safety tips
 
-Project Report
+#Project Report
 
 The detailed report is available in the project folder
 
 Includes explanation and reflection for all tasks
 
-Key Learnings
+#Key Learnings
 
 Importance of digital literacy in academics and career
 
@@ -94,7 +94,7 @@ Effective communication through emails
 
 Use of digital tools for collaboration and learning
 
-Tools & Platforms Used
+#Tools & Platforms Used
 
 Canva
 
@@ -108,12 +108,12 @@ HackerRank
 
 Google Forms
 
-Conclusion
+#Conclusion
 
 This project helped me develop practical digital skills and understand responsible online behavior. It enhanced my ability to use digital tools effectively and 
 prepared me for academic and professional environments.
 
-Google Form
+#Google Form
 
 Digital literacy awareness quiz# digital literacy project
 
